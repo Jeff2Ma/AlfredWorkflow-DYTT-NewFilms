@@ -1,6 +1,6 @@
 # AlfredWorkflow-DYTT-NewFilms
 
- 一个快速获取电影天堂（www.dy2018.com）上最新资源的Alfred Workflow
+ 一个快速获取电影天堂[www.dy2018.com](www.dy2018.com)上最新资源的Alfred Workflow
  
  ****
  
@@ -12,7 +12,7 @@
 
 ## 效果预览
 
-![效果截图](screenshot.png) 
+![效果截图](screen.png) 
 
 ## 下载地址
  
@@ -21,6 +21,13 @@
 ## TODO
 
 - 增加Alt 按钮下复制下载链接的功能
+
+## 相关 Workflow 推荐：
+
+- [一个快速获取SubHD 热门影视的Alfred Workflow ](https://github.com/Jeff2Ma/AlfredWorkflow-SubHD-HotFilms) 
+
+- [一个快速获取Kat.cr 上热门影视的Alfred Workflow ](https://github.com/Jeff2Ma/AlfredWorkflow-Katcr-Moives)
+
 
 ## 其它
 
