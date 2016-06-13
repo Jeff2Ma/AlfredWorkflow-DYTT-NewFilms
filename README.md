@@ -22,9 +22,9 @@
 
 - 增加Alt 按钮下复制下载链接的功能
 
-- item 的icon 获取为资源封面海报
-
 ## 其它
+
+小问题：由于需要轮番查询豆瓣的API 以获取电影海报封面作为icon，所以速度上略慢，待优化。
 
 Powered by JeffMa at [DeveWork.com](http://devework.com/)， feel free to use :)
 
