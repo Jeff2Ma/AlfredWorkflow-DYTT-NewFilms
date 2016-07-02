@@ -3,7 +3,9 @@
  一个快速获取电影天堂[www.dy2018.com](www.dy2018.com)上最新资源的Alfred Workflow
  
  ****
- 
+
+（7月2日更新，推荐如下整合版：[一个快速获取SubHD、Kat.cr、电影天堂的资源信息列表的Alfred Workflow](https://github.com/Jeff2Ma/AlfredWorkflow-DYHub) ） 
+
 ## 基本说明
 
 这是一个可以通过Alfred 的关键词快速获取[电影天堂](www.dy2018.com) 上最新电影下载资源的Alfred Workflow。使用Python 语言编写，支持最新的Alfred 3。
